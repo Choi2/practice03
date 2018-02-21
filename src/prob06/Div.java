@@ -1,6 +1,6 @@
 package prob06;
 
-public class Div {
+public class Div extends Calculation{
 	private int a;
 	private int b;
 

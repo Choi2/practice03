@@ -1,6 +1,6 @@
 package prob06;
 
-public class Mul {
+public class Mul extends Calculation{
 	private int a;
 	private int b;
 	

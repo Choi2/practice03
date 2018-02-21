@@ -1,6 +1,6 @@
 package prob06;
 
-public class Add {
+public class Add extends Calculation {
 	private int a;
 	private int b;
 	
